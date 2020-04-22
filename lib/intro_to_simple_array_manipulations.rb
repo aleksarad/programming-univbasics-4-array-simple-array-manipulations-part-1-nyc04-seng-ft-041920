@@ -16,3 +16,4 @@ end
 
 def using_shift (arr)
   arr.shift()
+end
